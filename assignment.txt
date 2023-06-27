@@ -1,0 +1,10 @@
+// write a function that returns the average of  elements in an array of numbers
+
+let numbersArray = [1, 2, 30, 4, 34, 345, 334, 5]; 
+
+// write a function that logs the square of a number passed as an argument, have a conditional statement in the function to check if the argument passed is a number
+
+// Create a function that takes in a number as argument and  determines the day of the week based on a given number. The numbers 1-7 represent the days of the week, where 1 is Monday, 2 is Tuesday, and so on. If the given number is not in the range of 1-7, display an error message.
+
+// create an object called logger that has a method called log that takes in a string then uses conosle.log() to print out the string
+
